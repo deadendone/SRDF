@@ -1,0 +1,29 @@
+@article{long2025,
+  title={BGSNet: A boundary-guided Siamese multitask network for semantic change detection from high-resolution remote sensing images},
+  author={Long, Jiang and Liu, Sicong and Li, Mengmeng and Zhao, Hang and Jin, Yanmin},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={225},
+  pages={221--237},
+  year={2025},
+  publisher={Elsevier}
+}
+
+@article{long2024,
+  title={Semantic change detection using a hierarchical semantic graph interaction network from high-resolution remote sensing images},
+  author={Long, Jiang and Li, Mengmeng and Wang, Xiaoqin and Stein, Alfred},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={211},
+  pages={318--335},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@article{long2025,
+  title={SMGNet:A Semantic Map-Guided Multitask Neural Network for Remote Sensing Image Semantic Change Detection},
+  author={Long, Jiang and Liu, Sicong and Li, Mengmeng},
+  journal={IEEE GEOSCIENCE AND REMOTE SENSING LETTERS},
+  volume={22},
+  pages={1--5},
+  year={2025},
+  publisher={IEEE}
+}

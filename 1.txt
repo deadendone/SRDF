@@ -1,0 +1,8 @@
+HGI:nohup python train_SCD.py > HRSCD_e100_325log.out 2>&1 &
+
+
+nohup python train_SCD_XR.py > SECOND_HGM_325log.out 2>&1 &
+
+nohup python 1.py > HRSCD_DE_325log.out 2>&1 &
+
+nohup python 2.py > HRSCD_SR_325log.out 2>&1 &
